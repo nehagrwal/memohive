@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/memohive/sitemap.xml
+Sitemap: https://memohive.vercel.app/sitemap-vercel.xml
+Sitemap: https://memohive.pages.dev/sitemap-cloudflare.xml
